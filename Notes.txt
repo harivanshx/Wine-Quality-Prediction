@@ -1,0 +1,33 @@
+# Tech stack
+
+
+1. Pandas
+2. Sk-learn 
+3. Matplotlib / Seaborn
+4. Py-yaml
+5. Flask - UI and API
+6. AWS - Deployment
+
+or you can also use MLOPS for project
+
+
+here we are not using mlops 
+
+
+##### end to end implementation 
+
+- project structure should not be always fixed 
+- Why OOps concept is required for end to end implementation 
+	- WE will be using of class and objects 
+	- in pubg we have class pubg and in that there is a method player and enemy 
+	- both player and enemy both have hand , head,  legs , body etc 
+- GitHub setup with nuralab
+- Project Tamplate
+- Mlops is a tool  >>> ML flow, DVC , Bentoml etc
+
+End to end project depends upon many things like what is the requirements
+
+
+
+	
+
