@@ -31,3 +31,13 @@ End to end project depends upon many things like what is the requirements
 
 	
 
+2. 
+Notebook experiment 
+Project Utility -> Logging , Exceptions , Utils modules
+Project Workflows
+
+
+
+wine quality dataset
+
+EDA Task --> 
