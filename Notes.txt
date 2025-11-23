@@ -41,3 +41,11 @@ Project Workflows
 wine quality dataset
 
 EDA Task --> 
+
+
+
+
+
+
+
+
