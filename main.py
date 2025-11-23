@@ -1,4 +1,4 @@
-from src.Wine_Quality_Prediction.config.configuration import main
+from src.Wine_Quality_Prediction import logger
 
+logger.info("Starting the experiment to train the model")
 
-    
